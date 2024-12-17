@@ -29,7 +29,7 @@ body {
     height: 100%;
 }
 
-#circle,#uploader{
+#circle,#uploader, #destroy{
     background-color: aquamarine;
     padding:10px;
     border-radius: 10px;
